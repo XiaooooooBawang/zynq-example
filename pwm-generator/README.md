@@ -35,3 +35,4 @@
 
 ![image-20230510234312747](http://picture.xiaoooooobawang.xyz/image-20230510234312747.png)
 
+10. 将PWM_Generator.h头文件复制粘贴进自己的application中，具体的开发可参照main.c
