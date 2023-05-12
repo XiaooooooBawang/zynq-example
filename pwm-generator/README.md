@@ -1,5 +1,7 @@
 # pwm-generator pwm发生器
 
+> 同款CSDN博客，https://blog.csdn.net/qq_45493596/article/details/130630371
+
 - HDL文件用于顶层设计。本来是用AXI4自定义一个ip核的，但经过我自己的努力尝试，都未能解决AXI总线的接口报错问题，遂将其作为封装好的RTL使用。
 - SDK文件用于SDK开发，提供了头文件和代码示例。
 
